@@ -42,9 +42,9 @@ e, logo abaixo, o texto completo dos posts numerados na mesma ordem.
 Depois do último perfil, escreva uma observação curta sobre qualquer bloqueio ou aviso que apareceu.
 
 ### Perfis do lote 1 (piloto)
-1. Victor Wendt
-2. João Branco
-3. Priscila Mendes (estrategista de LinkedIn e posicionamento)
+1. Victor Wendt: https://www.linkedin.com/in/victorwendt/
+2. João Branco (ex-VP de Marketing do McDonald's): https://www.linkedin.com/in/falajoaobranco/
+3. Priscila Mendes (estrategista de LinkedIn e posicionamento): https://www.linkedin.com/in/priscila-mendes-/ (confirmar: é a que tem consultoria de posicionamento no LinkedIn e cerca de 209 mil seguidores)
 
 ---
 
@@ -54,13 +54,11 @@ Retirada de rankings públicos (Favikon, Magicpost). Não confirmei que os nomes
 
 | Lote | Perfil | Origem |
 |---|---|---|
-| 2 | Renato Camargo | Favikon, marketing |
-| 2 | Murilo Moreno | Favikon, marketing |
-| 2 | Michel Jasper | Favikon, LinkedIn Brasil |
-| 3 | André Santos | Favikon, LinkedIn Brasil |
-| 3 | Diego Ivo (Conversion) | Favikon, SEO |
-| 3 | Daniel Imamura | Favikon, SEO |
-| 4 | Gabriel Sguarizi Panceri | Favikon, SEO |
-| 4 | Fábio Ricotta | mLabs, tráfego pago (lista com possíveis erros) |
+| 2 | Murilo Moreno, https://www.linkedin.com/in/murilomoreno/ | Favikon, marketing de consumo/marca |
+| 2 | Diego Ivo (Conversion), https://www.linkedin.com/in/diegoivo/ | Favikon, SEO |
+| 2 | Daniel Imamura (Duo&Co), https://www.linkedin.com/in/danielimamura/ | Favikon, SEO |
+| 3 | Renato Camargo (CMO Bradesco), https://www.linkedin.com/in/renatocamargobr/ | Favikon; executivo de marca, fora do nicho de performance (opcional) |
+| 3 | Michel Jasper, https://www.linkedin.com/in/micheljasper/ | Favikon; especialista em varejo, não em performance (opcional) |
+| ? | André Santos, Gabriel Sguarizi Panceri, Fábio Ricotta | URL não encontrada nas buscas; precisam do link exato |
 
 Depois de cada lote, cole o resultado aqui na conversa com o Claude da análise (ou salve em um arquivo na pasta do projeto).
