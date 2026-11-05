@@ -87,7 +87,7 @@ Público que o seu conteúdo alcança (diferente): TI 14%, marketing 12%, public
 | Pilar 3 (bastidor e liderança) opcional | Passa a ser a base | É o que mais alcançou na sua conta e o que as recomendações sustentam |
 | 3 posts por semana | 2 por semana no primeiro mês | Seu histórico sustentado é ~1 por semana; subir para 3 só se cumprir 4 semanas |
 | Headline com público assumido | Público mantido: líderes de marketing e growth e donos de agência | Seus dados confirmam: 45% marketing/publicidade, 14% CEO/fundador |
-| Casos a descobrir | ALFA (CPL -50%, agendas +140%) como caso 1 | Já está no seu post público |
+| Casos a descobrir | Casos vindos das suas reuniões e resultados de clientes, anonimizados; o resultado da ALFA aparece só sem o nome ("em uma operação B2B de serviços") | Você pediu para não citar a ALFA diretamente |
 
 ## 5. Persona v1 (para você aprovar)
 
@@ -105,7 +105,9 @@ Sustentação:
 3. `Growth Marketing | Liderança de squads | SEO, GEO e mídia paga com processo e dados`
 
 ### Abertura do "Sobre" (rascunho, confirme os números e se pode divulgar)
-> Transformo operações de marketing em máquinas de crescimento previsível. Na ALFA, em 45 dias, reduzi o CPL em 50% e aumentei em 140% as agendas mensais (comparado a julho de 2025). Hoje coordeno [descrever escopo na V4] com foco em processo, time e números que todo mundo entende.
+> Transformo operação de marketing em crescimento previsível. Em uma operação B2B de serviços, reduzi o CPL em 50% e aumentei em 140% as agendas mensais em 45 dias. Hoje coordeno squads na V4 Company (unidade Carvalho & Co.), com foco em processo, time e números que todo mundo entende.
+>
+> (Versão final, sem citar a ALFA pelo nome, está em `09-prompt-ajuste-perfil.md`.)
 
 Não publico nada do perfil por conta própria. Edição de headline, "Sobre" e experiência é manual, no seu LinkedIn.
 
@@ -126,11 +128,11 @@ Todos partem de material que você já tem; os colchetes são dados que só voc�
 | Sem. | Post | Pilar | Formato | Hook (rascunho) | Material |
 |---|---|---|---|---|---|
 | 1 | 1 | A | Texto | "Eu coordenava 30 contas e passava o dia falando de estratégia sem tempo para pensar em estratégia." | Seu texto original de "30 contas" (reescrita abaixo) |
-| 1 | 2 | B | Texto | "Em 45 dias, reduzimos o CPL em 50% e crescemos as agendas em 140%. Isto foi o que mudamos:" | O que você fez na ALFA, em 3 a 5 pontos |
+| 1 | 2 | B | Texto | [Caso real de cliente atual, anonimizado: resultado + o que mudou] | Ficha de insight vinda das suas reuniões e resultados (ver `10-fluxo-insights-reunioes.md`) |
 | 2 | 3 | A | Texto | "Como eu aproximo o time dos números sem virar reunião de planilha:" | Seu método real |
 | 2 | 4 | C (teste 1) | Texto | "Seu site aparece quando alguém pergunta para uma IA? Eu verifico assim:" | Seu checklist de GEO |
 | 3 | 5 | A | Texto | "Mudei de agência para [in-house/consultoria] duas vezes. O que ninguém conta:" | Sua trajetória (Labpix, V4, ALFA, V4) |
-| 3 | 6 | B | Imagem com lista | "O checklist que usei para estruturar a operação de marketing da ALFA:" | Seu checklist |
+| 3 | 6 | B | Imagem com lista | "O checklist que usei para estruturar uma operação de marketing B2B:" | Seu checklist |
 | 4 | 7 | C (teste 2) | Texto | "[Notícia de SEO/IA da semana]. O que muda para quem opera:" | Notícia + sua leitura |
 | 4 | 8 | A | Texto | "30 dias postando no LinkedIn: o que funcionou e o que não." | Os números do analytics |
 
@@ -168,6 +170,6 @@ Mudanças: hook com a tensão na primeira linha, texto enxuto, pergunta específ
 
 1. Confirmar a persona v1 e escolher a headline.
 2. Confirmar 2 posts por semana (ou propor outra cadência).
-3. Para o post 2: o que você mudou na ALFA (3 a 5 pontos), e se os números (CPL -50%, agendas +140% vs. julho de 2025) podem ser repetidos.
+3. Para o post 2: material das suas reuniões e resultados de clientes (ver `10-fluxo-insights-reunioes.md`). O resultado da ALFA só entra sem o nome.
 4. O texto do post de 12/01 ("Na última sexta-feira (09/01) tomei a decisão...") e a 3ª recomendação, se quiser usá-los.
 5. Aprovar o rascunho do post 1 (ou pedir ajustes). Só publico pela Composio depois da sua aprovação explícita.
