@@ -22,6 +22,15 @@ Envie anexando no chat. Não coloque material bruto no repositório: ele fica fo
 
 Pergunta que só você pode responder: a V4 e o cliente permitem divulgar resultados, mesmo anonimizados? Se houver política interna, vale confirmar antes do primeiro post de caso.
 
+## 2b. Reuniões que não viram conteúdo (e que eu não abro)
+
+- Reuniões 1:1 com pessoas do time e qualquer conversa sobre desempenho, salário, saída ou saúde de alguém.
+- Disputas jurídicas ou financeiras com clientes (reembolso, cobrança, notificação, contrato).
+- Comitês e reuniões internas de gestão da V4 (metas, DRE, remuneração, backlog de squads), a menos que você peça um trecho específico.
+- Qualquer coisa em que o cliente ainda não viu o resultado ou que dependa de sigilo contratual.
+
+O que eu extraio é sempre a lição de operação, nunca a história de quem estava na sala.
+
 ## 3. O que eu devolvo (por material)
 
 Uma **ficha de insight** curta:
